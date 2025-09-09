@@ -1,2 +1,2 @@
 # aluraflix1c2025
-pagina web feita n aulas de penamento computacional
+pagina web feita nas aulas de pensamento computacional
